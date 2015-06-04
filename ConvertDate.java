@@ -1,4 +1,5 @@
 // Takes in date in mm/dd/yyyy format and spells it out
+// Outputs ordinal position (# days since the beginning of the year)
 
 import java.util.*;
 
